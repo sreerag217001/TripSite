@@ -1,0 +1,177 @@
+.navbar-nav a:hover{
+    color: black;
+    
+}
+img{
+    width:50px;
+    height:40px;
+}
+.you{
+position: absolute;
+right:600px;
+
+}
+.me{
+    position: absolute;
+    right:540px;
+}
+#our{
+    width: 100%;
+    height:40px;
+    background-color:#616954;
+
+}
+#c1 img{
+    width: 100%;
+    height: 600px;
+}
+#c1 h1{
+    color:rgb(2, 2, 2);
+    position: absolute;
+    left:500px;
+    top:300px;
+}
+#c2 h2{
+    font-family: 'Bungee Spice', cursive;
+}
+#c3{
+    width: 300px;
+    height:200px;
+}
+#c3 img{
+    width: 300px;
+    height:200px;
+}
+#c4{
+    width: 300px;
+    height:200px;
+
+}
+#c4 img{
+    width: 300px;
+    height:200px;
+}
+#c5{
+    width: 300px;
+    height:200px;
+}
+#c5 img{
+    width: 300px;
+    height:200px;
+}
+#image{
+    display: flex;
+}
+#c6{
+    width: 300px;
+    height:200px;
+}
+#c6 img{
+    width: 300px;
+    height:200px;
+}
+#c7{
+    width: 147px;
+    height:200px;
+}
+#c7 img{
+    width: 147px;
+    height:200px;
+}
+#d1{
+    text-decoration: underline;
+    color: red;
+}
+#e1{
+    width: 370px;
+    height:250px;
+}
+#e1 img{
+    width: 370px;
+    height:250px;
+}
+#e2{
+    width: 370px;
+    height:250px;
+}
+#e2 img{
+    width: 370px;
+    height:250px;
+}
+#e3{
+    width: 370px;
+    height:250px;
+}
+#e3 img{
+    width: 370px;
+    height:250px;
+}
+
+#straight{
+    display: flex;
+}
+#e3{
+    position:absolute;
+    right:1px;
+}
+#e2{
+    margin-left: 120px;
+}
+#e1:hover{
+    transform: scale(1.1);
+}
+#e2:hover{
+    transform: scale(1.1);
+}
+#e3:hover{
+    transform:scale(1.1)
+}
+#h2{
+    position: relative;
+    left: 90PX;
+    TOP:50PX;
+}
+#h1{
+    position: relative;
+    LEFT:600PX;
+    TOP:90PX;
+}
+#h3{
+    position: relative;
+    LEFT:1100PX;
+}
+#background{
+    width: 100%;
+    height:600px;
+}
+#background img{
+    width: 100%;
+    height:600px;
+}
+#background h4{
+    position: absolute;
+    left: 300px;
+    font-family: 'Lobster', cursive;
+}
+.card-header{
+    background-color:#827c6c;
+}
+.card-body{
+    color:#881218;
+    background-color: azure;
+}
+body{
+    background-image:url("/Bootstarp/images/blue\ sea.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
